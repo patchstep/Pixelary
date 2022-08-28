@@ -1,3 +1,4 @@
 video/
-desktop.ini
-Pixelary.otf
+dist/
+
+*.ini
